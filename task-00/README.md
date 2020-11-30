@@ -1,1 +1,2 @@
+# Install Ubuntu
 I had completely different idea about booting process before attempting this task. After watching some videos on youtube I found it as very easy job. Then while dual booting due to some blunder I ended up deleting all OS in my system and had to install everything again(including drivers). I learnt to use linux commands after finishing this task and also looking forward improve my skills there.  
