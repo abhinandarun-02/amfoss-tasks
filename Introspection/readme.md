@@ -8,11 +8,12 @@ I am very passionate about technology and coding. Becoming a member I believe th
 ## **What is your plan for the next 6 months?**
 
 Currently I am planning to learn many languages through online education platforms. I am also looking forward to get into some open projects
-
+<br />
 
 ## **How would you contribute back to the club?** 
 
 At this time I am not really sure how i will be useful to the club. But I truly believe that I could find my part of interest
+<br />
 
 ## **Do you have any feedback for the selection process?**
 
