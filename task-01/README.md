@@ -1,2 +1,2 @@
 # It was a pretty simple task
-<img src="task-01 Screenshot" width="576" height="324">
+![Screenshot](https://github.com/abhinandarun-02/amfoss-tasks/blob/main/task-01/task-01%20screenshot.png?raw=true)
